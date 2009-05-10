@@ -1,0 +1,10 @@
+## Interface: 31100
+## Title: oUF_NeolithRaid
+## Author: neolith of EU-Aegwynn
+## Notes: Neolith's oUF Layout for RaidFrames
+## Version: BETA
+## Dependencies: oUF
+## OptionalDeps: oUF_DebuffHighlight, oUF_HealComm, oUF_Banzai
+
+oUF_NeolithRaid.xml
+oUF_NeolithRaid.lua
